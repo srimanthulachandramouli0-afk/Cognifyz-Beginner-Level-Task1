@@ -40,27 +40,7 @@ Tech Stack Used
 - Express.js
 - EJS
 
-How to Run Locally
 
-Step 1: Clone the repository
-
-git clone https://github.com/srimanthulachandramouli0/cognifyz-level1-task1.git
-
-Step 2: Navigate to the project folder
-
-cd cognifyz-level1-task1
-
-Step 3: Install dependencies
-
-npm install
-
-Step 4: Start the server
-
-node server.js
-
-Step 5: Open in your browser
-
-http://localhost:3000
 
 Learning Outcome
 
