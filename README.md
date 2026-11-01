@@ -1,1 +1,1 @@
-# Cognifyz-Begginer-Task1
+# Cognifyz-Beginenr-Task1
